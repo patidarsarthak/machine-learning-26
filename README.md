@@ -13,6 +13,15 @@ LinkedIn: https://www.linkedin.com/in/sharadlaad/
 - `reports/`: Reports and observations
 - `figures/`: Generated plots
 - `models/`: Trained models
+## Dataset
+
+The dataset is not included in this repository.
+
+Place the Olist Brazilian E-Commerce dataset in:
+
+`data/raw/`
+
+before running the notebooks.
 ## Lab 1
 Lab 1 focuses on development environment setup, dataset loading, data
 inspection, and initial exploratory data analysis.
