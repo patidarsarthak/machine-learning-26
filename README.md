@@ -1,8 +1,15 @@
 # Machine Learning 2026
 ## Project Overview
 This repository contains laboratory work for the Machine Learning course.
+
 The semester-long dataset is the Olist Brazilian E-Commerce Public Dataset.
+## Objectives
+Understand relational datasets
+Perform Exploratory Data Analysis (EDA)
+Analyze data quality
+Build a strong foundation for Machine Learning
 ## Prepared by
+Sarthak Patidar
 Sharad Laad
 LinkedIn: https://www.linkedin.com/in/sharadlaad/
 ## Folder Structure
@@ -15,13 +22,21 @@ LinkedIn: https://www.linkedin.com/in/sharadlaad/
 - `models/`: Trained models
 ## Dataset
 
-The dataset is not included in this repository.
-
-Place the Olist Brazilian E-Commerce dataset in:
+The Olist Brazilian E-Commerce Public Dataset is placed inside:
 
 `data/raw/`
 
-before running the notebooks.
 ## Lab 1
-Lab 1 focuses on development environment setup, dataset loading, data
-inspection, and initial exploratory data analysis.
+Lab 1 focuses on
+development environment setup
+dataset loading
+data inspection 
+initial exploratory data analysis.
+## Author
+Sarthak Patidar
+
+(24B5054)
+
+B.Tech CSBS(III)
+
+IET DAVV
